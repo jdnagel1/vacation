@@ -1,5 +1,17 @@
 h1{
   font-weight: bold;
-  color: blue;
   font-family: 'Germania One', cursive;
+  text-align: center;
+}
+
+
+p.lead{
+  font-weight: bold;
+  font-family: 'Germania One', cursive;
+  text-align: center;
+}
+img {
+  width: 50%;
+  height: 50%;
+  float: left;
 }
